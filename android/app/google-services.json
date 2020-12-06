@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1097039126240",
+    "firebase_url": "https://rolladice-8a7b5-default-rtdb.firebaseio.com",
+    "project_id": "rolladice-8a7b5",
+    "storage_bucket": "rolladice-8a7b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097039126240:android:62f786f8a5b3728b383a85",
+        "android_client_info": {
+          "package_name": "com.va.roll_a_dice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097039126240-1b3kpv5ont1jt1jih95l39s7r9uf2l9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE1Hftkl3YUgyq0vNL7g9-HsE9WnoP2AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097039126240-1b3kpv5ont1jt1jih95l39s7r9uf2l9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097039126240:android:1819538d8ba15897383a85",
+        "android_client_info": {
+          "package_name": "com.va.rolladice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097039126240-1b3kpv5ont1jt1jih95l39s7r9uf2l9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE1Hftkl3YUgyq0vNL7g9-HsE9WnoP2AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097039126240-1b3kpv5ont1jt1jih95l39s7r9uf2l9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
