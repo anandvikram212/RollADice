@@ -8,7 +8,7 @@ Steps to get the flutter sdk and Run the App
 * Type: flutter doctor , which downloads additional dependencies
 * Wait for dependencies to download and install
 * After this open Android Studio and install Dart sdk from configurations or try running `flutter version <flutter-version>` latest version is recommended. 
-* Git clone the mobileapp-skan Repo from git and Import it from android studio
+* Git clone the Project Repo from git and Import it from android studio
 * In terminal run, Run `flutter doctor -v` to check if everything is working fine [ ticked ]
 * Run this command to create and install apk file in debug mode on your device directly => `flutter run -t lib/main.dart -d <device_id>`
 
@@ -44,7 +44,7 @@ OUTPUT =>
   ✓ Built build/app/outputs/apk/release/app-release.apk (21.5MB).
  ```
   
-* To seperately install .apk (device and platform specific) through command line, run `flutter run --release -t lib/main_release.dart`
+* To seperately install .apk (device and platform specific) through command line, run `flutter run --release -t lib/main.dart`
 
   ```
   This not only reduces the app size but also makes the app faster. 
